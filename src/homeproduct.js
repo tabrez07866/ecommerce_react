@@ -1,0 +1,64 @@
+const Homeproduct=[
+    {
+        id:1,
+        Title:"galaxy Tab s6 lite 10.4-inch Android Tablet 128GB. ",
+        Cat:'Tablet',
+        Price:'723',
+        Img:'./img/tp1.jpg'
+    },
+    {
+        id:2,
+        Title:"galaxy Tab s6 lite 10.4-inch Android Tablet 128GB. ",
+        Cat:'Tablet',
+        Price:'723',
+        Img:'./img/tp2.jpg'
+    }
+    ,
+    {
+        id:3,
+        Title:"Cancelling Headphone Wireless. ",
+        Cat:'Headphone',
+        Price:'49',
+        Img:'./img/tp3.jpg'
+    }
+    ,
+    {
+        id:4,
+        Title:"Professional Camera 4k Digital video Camera. ",
+        Cat:'Camera',
+        Price:'1049',
+        Img:'./img/tp4.jpg'
+    }
+    ,
+    {
+        id:5,
+        Title:"Mini Portable PD 22.5W Fast charging powerbank . ",
+        Cat:'powerbank',
+        Price:'43',
+        Img:'./img/tp5.jpg'
+    }
+    ,
+    {
+        id:6,
+        Title:"CPU cooler 2 heat pipes 12nm 4Pin PWM RGB for intel. ",
+        Cat:'Heat pipe',
+        Price:'156',
+        Img:'./img/tp6.png'
+    },
+    {
+        id:7,
+        Title:"Playstation 4 3TB slin Gaming Console. ",
+        Cat:'Gaming',
+        Price:'2098',
+        Img:'./img/tp7.jpg'
+    },
+    {
+        id:8,
+        Title:"Mini Portable Mobile Phone Powerbank for iPhone. ",
+        Cat:'Powerbank',
+        Price:'386',
+        Img:'./img/tp8.jpg'
+    },
+
+]
+export default Homeproduct
